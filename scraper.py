@@ -1,6 +1,9 @@
+#!/usr/bin/env python 3
+
 #for reading excel files
 import openpyxl
 from pathlib import Path
+
 #for parsing websites
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
